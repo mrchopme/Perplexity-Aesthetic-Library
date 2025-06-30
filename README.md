@@ -3,7 +3,7 @@
 A collection of visual references and JSON profiles for creating Perplexity-style illustrations.
 
 ## 001 - Publishers Program
-![Publishers Program](images/001-publishers-program.jpg)
+![Publishers Program](images/001-publishers-program.png)
 - **Profile**: [001-publishers-program.json](profiles/001-publishers-program.json)
 - **Key Elements**: Purple spheres, wildflowers, group journey, sunset gradient
 - **Color Palette**: #6A0DAD (purple), #FCA311 (amber), #FF69B4 (pink)
@@ -17,14 +17,14 @@ A collection of visual references and JSON profiles for creating Perplexity-styl
 - **Use Case**: Cosmic scale, infinite possibility, knowledge as universal
 
 ## 003 - Reading Book
-![Reading Book](images/003-reading-book.jpg)
+![Reading Book](images/003-reading-book.jpeg)
 - **Profile**: [003-reading-book.json](profiles/003-reading-book.json)
 - **Key Elements**: Open book, stars/light emanating, minimal cosmic design
 - **Color Palette**: Deep navy, bright blues, white light accents
 - **Use Case**: Knowledge illumination, learning, discovery moments
 
 ## 004 - Face Earth Plants
-![Face Earth Plants](images/004-face-earth-plants.jpg)
+![Face Earth Plants](images/004-face-earth-plants.png)
 - **Profile**: [004-face-earth-plants.json](profiles/004-face-earth-plants.json)
 - **Key Elements**: Profile silhouette, Earth integration, organic/nature blend
 - **Color Palette**: Sunset oranges, deep purples, earth tones
