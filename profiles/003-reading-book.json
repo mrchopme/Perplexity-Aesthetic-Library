@@ -1,0 +1,92 @@
+{
+    "title": "Perplexity – Cosmic Book Reader",
+    "file_metadata": {
+      "file_name": "003-reading-book.jpeg",
+      "file_type": "jpeg",
+      "dimensions": {
+        "width": 800,
+        "height": 517
+      },
+      "orientation": "landscape"
+    },
+    "composition": {
+      "foreground": {
+        "figure": {
+          "type": "human",
+          "visible_parts": ["hands", "upper torso"],
+          "pose": "seated, holding a book",
+          "clothing": {
+            "type": "collared shirt",
+            "color": "#B03030 (muted red/maroon)",
+            "style": "loose-fitting, casual"
+          },
+          "hand_position": "left hand on front of book, right hand supporting it",
+          "head_visibility": "obscured by open book"
+        },
+        "object": {
+          "type": "book",
+          "position": "centered, directly in front of figure's face",
+          "appearance": {
+            "cover_color": "#2E2E2E (dark brown/black)",
+            "open_pages": true,
+            "glow_emission": "bright light beams and stars emerging from pages"
+          }
+        }
+      },
+      "background": {
+        "theme": "cosmic space",
+        "elements": [
+          "thousands of glowing stars",
+          "streaming blue light beams",
+          "geometric constellation-like grid in places"
+        ],
+        "gradient": {
+          "bottom": "#001a33 (deep navy)",
+          "top": "#000000 (black)",
+          "transitions": "smooth"
+        }
+      }
+    },
+    "branding": {
+      "logo": {
+        "text": "perplexity",
+        "font": "modern sans-serif",
+        "case": "lowercase",
+        "color": "#FFFFFF",
+        "position": "center-top above book glow",
+        "accompanied_symbol": {
+          "style": "geometric abstract starburst or neural-network node",
+          "color": "#FFFFFF"
+        }
+      }
+    },
+    "lighting_effects": {
+      "emission_source": "center of the book",
+      "type": "radial beams",
+      "directionality": "upward and outward",
+      "effects_on_scene": [
+        "highlights stars around the book's glow",
+        "draws focus to center",
+        "adds depth and dimensional layering"
+      ]
+    },
+    "style": {
+      "genre": "retro-futuristic / editorial sci-fi",
+      "tone": "mysterious, imaginative",
+      "texture": {
+        "grain": "moderate visible texture",
+        "space_elements": "digital starfield simulation",
+        "light": "high contrast, smooth radiant blending"
+      },
+      "color_palette": [
+        "#000000", "#001a33", "#B03030", "#FFFFFF", "#FFD700", "#1A75FF"
+      ]
+    },
+    "symbolism": {
+      "book = gateway to knowledge": true,
+      "stars/light = information, ideas, curiosity": true,
+      "head obscured = immersion in learning": true,
+      "logo at convergence point = Perplexity as portal": true
+    },
+    "intended_message": "Reading and inquiry ignite expansive thinking. Perplexity positions itself as the spark that turns information into insight, mirroring the infinite nature of knowledge discovery."
+  }

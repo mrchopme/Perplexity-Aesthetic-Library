@@ -1,0 +1,101 @@
+{
+    "title": "Where Knowledge Begins",
+    "source": "Perplexity",
+    "file_metadata": {
+      "file_name": "002-Where-Knowledge-Begins.jpg",
+      "file_type": "jpg",
+      "dimensions": {
+        "width": 1400,
+        "height": 467
+      },
+      "orientation": "landscape"
+    },
+    "composition": {
+      "foreground": {
+        "figure": {
+          "type": "human",
+          "count": 1,
+          "pose": "standing",
+          "location": "bottom right",
+          "silhouette": true,
+          "clothing": "minimal detail, possibly a coat or jacket",
+          "perspective": "back-facing, looking into the distance"
+        }
+      },
+      "background": {
+        "celestial": {
+          "planet": {
+            "type": "Earth-like",
+            "position": "upper center-right",
+            "features": "visible continents and curvature",
+            "lighting": "partially shadowed, top-lit"
+          },
+          "rings": {
+            "count": "multiple",
+            "style": "planetary or stylized light trails",
+            "colors": [
+              "#FF9DA6",  // soft pink
+              "#E1EAF1",  // light bluish-white
+              "#3A3A58"   // deep space grey-blue
+            ],
+            "curve": "sweeping from top left to bottom right",
+            "transparency": "semi-transparent",
+            "effect": "glowing motion blur"
+          }
+        },
+        "sky": {
+          "type": "space/atmosphere hybrid",
+          "gradient": {
+            "top": "#000814",
+            "mid": "#203b58",
+            "bottom": "#FFCDB2"
+          },
+          "stars": {
+            "visibility": "faint",
+            "density": "low",
+            "location": "upper portion"
+          }
+        }
+      }
+    },
+    "typography": {
+      "text": "Where knowledge begins",
+      "font": {
+        "style": "serif",
+        "weight": "medium",
+        "case": "title case",
+        "kerning": "moderate",
+        "color": "#FFFFFF",
+        "placement": "centered",
+        "size_estimate": "large (approx. 8–10% of vertical space)"
+      }
+    },
+    "branding": {
+      "logo": {
+        "text": "perplexity",
+        "font": "sans-serif, lowercase",
+        "size": "small",
+        "placement": "bottom right",
+        "color": "#FFFFFF"
+      }
+    },
+    "style": {
+      "aesthetic": "sci-fi meets minimalist editorial",
+      "tone": "inspirational, contemplative",
+      "textures": {
+        "grain": "minimal to none",
+        "smoothing": "high",
+        "lighting": "soft ambient with glowing elements"
+      },
+      "color_palette": [
+        "#000814", "#14213D", "#E5E5E5", "#FF9DA6", "#FFCDB2", "#3A3A58"
+      ]
+    },
+    "visual_metaphors": [
+      "The lone figure = individual pursuit of knowledge",
+      "The distant Earth = knowledge as a universal frontier",
+      "The rings = flow of information or data streams",
+      "The horizon = the threshold of discovery"
+    ],
+    "intended_message": "Curiosity marks the start of knowledge. The journey begins with a question. This image invites the viewer to step into that vast unknown."
+  }
