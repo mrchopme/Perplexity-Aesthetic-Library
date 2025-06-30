@@ -1,0 +1,102 @@
+{
+    "title": "Perplexity – Mountain Landscape Portal",
+    "file_metadata": {
+      "file_name": "005-Mountain-Landscape.jpeg",
+      "file_type": "jpeg",
+      "dimensions": {
+        "width": 1400,
+        "height": 700
+      },
+      "orientation": "landscape"
+    },
+    "composition": {
+      "foreground": {
+        "structure": {
+          "type": "portal/gate",
+          "style": "monolithic rectangular frame",
+          "color": "#1E1E1E (dark stone)",
+          "material": "matte or polished stone/metallic",
+          "position": "center of image",
+          "size_ratio": "about 1/4 of full image width",
+          "shadow": "projected toward viewer, indicating backlighting"
+        },
+        "ground_plane": {
+          "surface": "flat rocky or desert terrain",
+          "texture": "subtle grain, possibly stylized",
+          "lighting": "cool ambient hues with a soft blue/orange gradient"
+        }
+      },
+      "background": {
+        "environment": "mountain range",
+        "mountains": {
+          "style": "semi-realistic with painterly treatment",
+          "peak_shape": "sharp and snow-covered",
+          "depth_layers": 3,
+          "palette": ["#768EA6", "#B5C6D8", "#1A1A2E"]
+        },
+        "sky": {
+          "style": "high-altitude twilight",
+          "gradient": {
+            "top": "#091D36 (dark blue)",
+            "mid": "#3E5C76 (cold blue-grey)",
+            "bottom": "#E3CBA5 (warm haze)"
+          },
+          "elements": {
+            "stars": {
+              "density": "medium",
+              "visibility": "moderate",
+              "distribution": "non-uniform"
+            },
+            "nebula": {
+              "color": "#F9AFAF (soft pinkish cloud)",
+              "location": "left side of the portal"
+            }
+          }
+        }
+      },
+      "portal_contents": {
+        "view_through_portal": {
+          "scene": "alternate mountain valley",
+          "color_tone": "brighter and more vivid",
+          "key_difference": "sunlit meadow and clear blue skies",
+          "implied_message": "gateway to insight, clarity, new dimension"
+        },
+        "lighting_effects": {
+          "edge_glow": "faint light ring around portal opening",
+          "contrast": "higher vibrance inside portal vs. outside",
+          "directionality": "light appears to spill out of the portal"
+        }
+      }
+    },
+    "brand_elements": {
+      "logo": {
+        "text": "perplexity",
+        "font": "minimal geometric sans-serif",
+        "style": "white, lowercase, semi-bold",
+        "position": "centered inside the portal or top-center overlay",
+        "size": "medium-large",
+        "opacity": 1.0
+      }
+    },
+    "style": {
+      "genre": "conceptual landscape, digital matte painting",
+      "tone": "mysterious, serene, forward-looking",
+      "render_technique": {
+        "blend": "painterly with photorealistic lighting",
+        "atmosphere": "soft haze and subtle glow"
+      },
+      "texture": {
+        "foreground": "lightly grained with cold shadows",
+        "background": "smooth gradients, snowy peaks"
+      },
+      "color_palette": [
+        "#091D36", "#3E5C76", "#B5C6D8", "#E3CBA5", "#F9AFAF", "#1E1E1E"
+      ]
+    },
+    "symbolism": {
+      "portal = perspective shift": true,
+      "mountains = obstacles or knowledge peaks": true,
+      "contrast in environments = difference between unknown and known": true
+    },
+    "intended_message": "Perplexity opens a portal to a clearer, more informed world. What seems distant or obscured becomes navigable through structured knowledge and perspective."
+  }

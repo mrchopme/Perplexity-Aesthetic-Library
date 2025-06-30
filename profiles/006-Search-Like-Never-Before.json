@@ -1,0 +1,106 @@
+{
+    "title": "Search Like Never Before",
+    "file_metadata": {
+      "file_name": "006-Search-Like-Never-Before.jpg",
+      "file_type": "jpeg",
+      "dimensions": {
+        "width": 1200,
+        "height": 675
+      },
+      "orientation": "landscape"
+    },
+    "composition": {
+      "foreground": {
+        "figure": {
+          "type": "human silhouette",
+          "pose": "standing upright, facing mountains",
+          "location": "center-bottom",
+          "attire": {
+            "backpack": true,
+            "pants": true,
+            "jacket or long sleeves": true
+          },
+          "perspective": "rear view"
+        },
+        "ground_plane": {
+          "type": "grassy hill",
+          "color": "#331B0F (dark brown)",
+          "texture": "hand-drawn lines for grass and earth",
+          "lighting": "soft shadow under silhouette"
+        }
+      },
+      "background": {
+        "environment": "mountain range",
+        "mountains": {
+          "style": "illustrative, geometric stylization",
+          "layering": 3 to 4 depth layers,
+          "shading": "bold flat color blocks with highlights",
+          "color_palette": [
+            "#373F78", "#8B6D50", "#EF8459", "#F5D9B0", "#43495E"
+          ]
+        },
+        "sky": {
+          "top_color": "#F8EACD (cream orange)",
+          "bottom_gradient": "#E65839 (burnt coral to red)",
+          "clouds": {
+            "type": "wispy and textured",
+            "color": "#3D4E8C (deep blue-violet)",
+            "position": "upper third of image",
+            "edge_blending": "diffuse and painterly"
+          },
+          "sunlight": {
+            "type": "beam or corona effect",
+            "position": "top-right horizon",
+            "color_temperature": "warm to cool gradient"
+          }
+        },
+        "framing_elements": {
+          "left_right_edges": {
+            "elements": "curtains of deep space",
+            "color": "#1C1C52 (space blue)",
+            "decoration": "scattered stars",
+            "purpose": "creates contrast and implies dimensional boundary"
+          }
+        }
+      }
+    },
+    "typography": {
+      "text": "Search like never before.",
+      "position": "centered horizontally, top third of the image",
+      "font": {
+        "style": "serif",
+        "weight": "regular",
+        "italic": ["never"],
+        "color": "#FFFFFF"
+      },
+      "emphasis": {
+        "word": "never",
+        "style": "italicized",
+        "semantic": "highlighted contrast, transformation"
+      }
+    },
+    "branding": {
+      "associated_brand": "Perplexity AI",
+      "logo_visibility": "absent",
+      "identity_reference": "through visual style and tagline"
+    },
+    "visual_style": {
+      "genre": "digital painting / editorial illustration",
+      "mood": "inspired, expansive, curious",
+      "technique": {
+        "medium": "textured brush digital strokes",
+        "grain": "fine canvas grain filter applied",
+        "light": "illustrative volumetric light effects"
+      },
+      "color_palette": [
+        "#1C1C52", "#373F78", "#EF8459", "#F5D9B0", "#E65839", "#FFFFFF"
+      ]
+    },
+    "symbolism": {
+      "silhouette = seeker/explorer": true,
+      "mountains = knowledge yet to be reached": true,
+      "space-curtains framing the scene = transition to a new dimension of inquiry": true,
+      "sunlight = insight, breakthrough moment": true
+    },
+    "intended_message": "Search is no longer linear or literal—it's immersive, visual, and contextual. This scene suggests stepping into a new dimension of exploration, guided by technology that reframes what search can be."
+  }

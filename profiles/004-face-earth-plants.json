@@ -1,0 +1,93 @@
+{
+    "title": "Perplexity – Planet Mind",
+    "file_metadata": {
+      "file_name": "004-face-earth-plants.jpeg",
+      "file_type": "jpeg",
+      "dimensions": {
+        "width": 1365,
+        "height": 768
+      },
+      "orientation": "landscape"
+    },
+    "composition": {
+      "foreground": {
+        "figure": {
+          "type": "human",
+          "visible_parts": ["face", "fingers", "neck", "partial torso"],
+          "pose": "face partially obscured by hand and Earth sphere",
+          "gesture": "index finger pointing up toward temple/forehead",
+          "expression": "neutral or contemplative",
+          "skin_tone": "light to medium",
+          "clothing": {
+            "color": "#003B6F (dark cyan/blue)",
+            "style": "collared shirt"
+          }
+        },
+        "object_overlay": {
+          "type": "Earth globe",
+          "position": "centered over forehead, covering upper face",
+          "orientation": "South America centered, tilted axis",
+          "lighting": "realistic texture and reflectivity",
+          "symbolism": "planet as mind or thought"
+        }
+      },
+      "background": {
+        "setting": "jungle/forest",
+        "elements": [
+          "lush green foliage",
+          "broad-leaf tropical plants",
+          "blue and red accent flowers or leaves",
+          "slight glowing elements"
+        ],
+        "color_palette": [
+          "#1B3D2F", "#3C6E50", "#A52A2A", "#004E64", "#8FCB9B"
+        ],
+        "density": "high vegetation density, immersive surround"
+      }
+    },
+    "brand_elements": {
+      "text": "perplexity",
+      "font": {
+        "type": "modern sans-serif",
+        "style": "outlined",
+        "weight": "bold outline",
+        "color": "#FFFFFF",
+        "opacity": 0.9
+      },
+      "placement": "centered over full image, spanning face and globe",
+      "integration": "semi-transparent overlay blending with image behind"
+    },
+    "visual_effects": {
+      "contrast_focus": {
+        "method": "brighter globe over darker jungle",
+        "result": "eye drawn immediately to Earth and text"
+      },
+      "blending": {
+        "technique": "smooth digital compositing",
+        "object_merge": "Earth seamlessly replaces upper head"
+      },
+      "vignette": {
+        "edges": "slightly darkened corners",
+        "purpose": "draws focus inward"
+      }
+    },
+    "symbolism": {
+      "earth_as_head": "global knowledge, planetary thinking",
+      "finger_to_head": "focus, insight, or accessing wisdom",
+      "jungle": "natural complexity, unfiltered information",
+      "branding_overlay": "Perplexity as interface for understanding the world"
+    },
+    "style": {
+      "aesthetic": "surrealist science + nature",
+      "tone": "curious, slightly mystical",
+      "texture": {
+        "planet": "photorealistic",
+        "face and hand": "digitally painted or stylized realism",
+        "foliage": "high-detail painterly render"
+      },
+      "color_palette": [
+        "#003B6F", "#174A41", "#3C6E50", "#E54D2E", "#FFFFFF", "#70C1B3"
+      ]
+    },
+    "intended_message": "Perplexity is the mental interface to global intelligence. The user becomes one with the Earth’s knowledge, grounded in nature and powered by curiosity."
+  }
